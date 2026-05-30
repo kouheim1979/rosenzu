@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-05-31",
+  "purpose": "Rosenzu Offline initial official source pages. Use these pages to obtain route map PDF/image files for personal offline use.",
+  "sources": [
+    { "cityId": "tokyo", "nameJa": "東京", "officialUrl": "https://www.tokyometro.jp/en/subwaymap/index.html", "memo": "東京メトロ・都営地下鉄など。公式ページから最新PDFを取得する。" },
+    { "cityId": "yokohama", "nameJa": "横浜", "officialUrl": "https://www.city.yokohama.lg.jp/kotsu/sub/kounaizu/kounaizu.html", "memo": "横浜市営地下鉄。公式ページから最新PDFを取得する。" },
+    { "cityId": "nagoya", "nameJa": "名古屋", "officialUrl": "https://www.kotsu.city.nagoya.jp/rp/subway/routemap.html", "memo": "名古屋市営地下鉄。公式ページから最新PDFを取得する。" },
+    { "cityId": "kyoto", "nameJa": "京都", "officialUrl": "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/comm/routemap.html", "memo": "京都市営地下鉄・市内交通。多言語PDFリンクは公式ページから取得する。" },
+    { "cityId": "osaka", "nameJa": "大阪", "officialUrl": "https://subway.osakametro.co.jp/guide/routemap.php", "memo": "Osaka Metro。公式ページから最新PDFを取得する。" },
+    { "cityId": "kobe", "nameJa": "神戸", "officialUrl": "https://kotsu.city.kobe.lg.jp/subway/route-map/", "memo": "神戸市営地下鉄・都市鉄道。公式ページから最新画像/PDFを取得する。" },
+    { "cityId": "sapporo", "nameJa": "札幌", "officialUrl": "https://www.city.sapporo.jp/st/route_konaizu/index.html", "memo": "札幌市営地下鉄・市電。公式ページから路線図画像を取得する。" },
+    { "cityId": "sendai", "nameJa": "仙台", "officialUrl": "https://www.kotsu.city.sendai.jp/subway/station/", "memo": "仙台市地下鉄。公式ページから最新PDFを取得する。" },
+    { "cityId": "fukuoka", "nameJa": "福岡", "officialUrl": "https://subway.city.fukuoka.lg.jp/eng/route/", "memo": "福岡市地下鉄。公式ページから最新PDFを取得する。" },
+    { "cityId": "kanazawa", "nameJa": "金沢市", "officialUrl": "https://www.hokutetsu.co.jp/route-bus/map/", "memo": "地下鉄なし。北陸鉄道・金沢近郊バス・市内交通マップとして扱う。" },
+    { "cityId": "wakayama", "nameJa": "和歌山市", "officialUrl": "https://www.city.wakayama.wakayama.jp/kurashi/douro_kouen_machi/1007740/1016143.html", "memo": "地下鉄なし。和歌山市公共交通マップ・和歌山バス等を扱う。" },
+    { "cityId": "hiroshima", "nameJa": "広島市", "officialUrl": "https://www.hiroden.co.jp/train/route-guide/route-map.html", "memo": "広電・アストラムライン・市内交通。広電公式ページを入口にする。" },
+    { "cityId": "taipei", "nameJa": "台北", "officialUrl": "https://english.metro.taipei/cp.aspx?n=1BE0AF76C79F9A38", "memo": "Taipei Metro. Route Map and Timetables page." },
+    { "cityId": "taichung", "nameJa": "台中", "officialUrl": "https://www.tmrt.com.tw/eng/metro-life/map", "memo": "Taichung Metro route map page." },
+    { "cityId": "kaohsiung", "nameJa": "高雄", "officialUrl": "https://www.krtc.com.tw/eng/KLRT/guide_map", "memo": "Kaohsiung Metro and Light Rail guide map page." }
+  ]
+}
