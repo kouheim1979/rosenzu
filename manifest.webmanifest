@@ -1,0 +1,20 @@
+{
+  "name": "Rosenzu Offline",
+  "short_name": "路線図",
+  "description": "PDF/画像/SVG路線図を手動登録して端末内に保存する個人利用向けオフライン路線図ビューア",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f172a",
+  "lang": "ja-JP",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
